@@ -1,4 +1,6 @@
-## ESRGAN (Enhanced SRGAN) [:rocket: [BasicSR](https://github.com/xinntao/BasicSR)] [[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)]
+## ESRGAN (Enhanced SRGAN)
+
+Official Github Repo: https://github.com/xinntao/ESRGAN
 
 :sparkles: **New Updates.**
 
